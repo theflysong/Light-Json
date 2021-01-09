@@ -120,7 +120,7 @@ string toString(Token::Type type) {
 	}
 }
 
-#define __DEBUG__LJSON_
+//#define __DEBUG__LJSON_
 #ifdef __DEBUG__LJSON_
 int main() {
 	Lexer lexer;
