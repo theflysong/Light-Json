@@ -12,4 +12,4 @@ LightWeight-Json
     to your code
     add "light-json.cpp"
     to your project
-* Attention: should use flag std=c++11
+* Attention: should use flag -std=c++11
